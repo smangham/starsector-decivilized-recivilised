@@ -1,0 +1,28 @@
+{
+    "id":"Toaster_deciv", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+	"name":"Decivilized Recivilised", # Displayed to the player
+	"author":"Toaster",
+    "utility":"false",
+	"version":"1.0.0",
+	"description":"Adds a colony project to disable Decivilized Subpopulations.",
+    "gameVersion": "0.96a-RC10",
+  	"jars":["jars/Toaster_deciv.jar"],
+  	"modPlugin":"Toaster.deciv.TemplateModPlugin",
+	  	"dependencies": [
+        #{
+        #    "id": "lw_lazylib",
+        #    "name": "LazyLib",
+        #    #"version": "2.7b"
+        #},
+        #{
+        #    "id": "MagicLib",
+        #    "name": "MagicLib",
+        #    #"version": "0.34"
+        #},
+        #{
+        #    "id": "shaderLib",
+        #    "name": "GraphicsLib",
+        #    #"version": "1.5.1"
+        #}
+    ],
+}
