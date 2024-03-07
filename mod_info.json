@@ -3,9 +3,9 @@
 	"name":"Decivilized Recivilised", # Displayed to the player
 	"author":"Toaster",
     "utility":"false",
-	"version":"1.0.1",
+	"version":"1.0.2",
 	"description":"Adds a colony project to disable Decivilized Subpopulations.",
-    "gameVersion": "0.97a-RC9",
+    "gameVersion": "0.97a-RC11",
   	"jars":["jars/Toaster_deciv.jar"],
   	"modPlugin":"Toaster.deciv.TemplateModPlugin",
 	  	"dependencies": [
