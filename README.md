@@ -1,6 +1,6 @@
 # Decivilized Recivilised
 
-`v1.0.1` for Starsector `0.96a-RC9`, made using [Wisp's IntelliJ Mod Template](https://github.com/wispborne/Starsector-IntelliJ-Template)
+`v1.0.2` for Starsector `0.96a-RC11`, made using [Wisp's IntelliJ Mod Template](https://github.com/wispborne/Starsector-IntelliJ-Template)
 
 ## Description
 
