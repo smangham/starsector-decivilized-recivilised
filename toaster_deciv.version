@@ -20,7 +20,7 @@
   # GitHub: https://raw.githubusercontent.com/MagicLibStarsector/MagicLib/master/magiclib.version
   # Dropbox: https://www.dropbox.com/s/rnzm1m8l8ik8a6l/modname.zip?dl=1  # Note the ?dl=1
   # Google Drive: https://drive.google.com/uc?id=1dbx-oOyFxy6l2ECLHqNtWg5kBW3lXBo7&export=download  # Note the &export=download
-  "masterVersionFile": "url goes here",
+  "masterVersionFile": "https://raw.githubusercontent.com/smangham/starsector-decivilized-recivilised/main/Toaster_deciv.version",
 
   "modName": "Decivilized Recivilised",
 
@@ -32,7 +32,7 @@
     {
       "major": 1,
       "minor": 0,
-      "patch": 0 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+      "patch": 3 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
 
   # OPTIONAL
@@ -40,7 +40,7 @@
   # This is used to launch directly to the forum thread from in the game.
   # The ID is the set of digits at the end of the forum thread URL before the dot.
   # For example: fractalsoftworks.com/forum/index.php?topic=8181.0 has an ID of 8181
-  "modThreadId": 0, # eg 8181
+  "modThreadId": 27499, # eg 8181
 
   # OPTIONAL
   # A download link directly to the latest version of your mod.

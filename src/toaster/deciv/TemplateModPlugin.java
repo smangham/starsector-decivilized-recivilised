@@ -1,4 +1,4 @@
-package Toaster.deciv;
+package toaster.deciv;
 
 import com.fs.starfarer.api.BaseModPlugin;
 

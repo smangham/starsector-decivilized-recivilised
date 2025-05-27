@@ -1,6 +1,6 @@
 # Decivilized Recivilised
 
-`v1.0.2` for Starsector `0.96a-RC11`, made using [Wisp's IntelliJ Mod Template](https://github.com/wispborne/Starsector-IntelliJ-Template)
+`v1.0.3` for Starsector `0.98a-RC8`, made using [Wisp's IntelliJ Mod Template](https://github.com/wispborne/Starsector-IntelliJ-Template)
 
 ## Description
 
@@ -25,4 +25,4 @@ Once it finishes building, it will remove the **Decivilized Subpopulation** modi
 * **Safe to remove from an existing game:** Just make sure you've finished or cancelled construction of *"Clear Decivilized Subpopulation"*.
 
 ## FAQ
-*"Why the mix of s and z?"* - S is more civilised.
+* "Why the mix of s and z?"* - S is more civilised.
